@@ -97,5 +97,10 @@
     */
     --user-popup-background: rgba(0, 0, 0, 0.8);
 }
-
-/* ADD ANY CUSTOM CODE BELOW */
+.wordmark-2iDDfm:after {
+    content: "Discord | Spore Team";
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    font-family: "discord";
+}
